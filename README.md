@@ -1,4 +1,4 @@
-Just the very-basic email-password authentication with Next.js, Better-auth and Prisma
+Just the very basic email-password authentication with Next.js, Better-auth and Prisma
 
 ```bash
 npm i
